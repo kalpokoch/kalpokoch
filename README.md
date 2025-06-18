@@ -1,87 +1,197 @@
-# 👋 Hey, I'm Kalpojyoti Koch (Kalpokoch)
+# Hi there, I'm Kalpojyoti Koch 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76A05&center=true&vCenter=true&multiline=true&width=500&height=60&lines=CS+Undergrad+%7C+Problem+Solver;Builder+%7C+Thinker+%7C+Learner;Real-World+Tech+for+Real-World+People" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=CS+Undergrad+%7C+Problem+Solver;Building+Real-World+Tech+Solutions;Turning+Ideas+Into+Impact" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kalposportfoliowebsite.netlify.app)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalpo07/)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalpokoch@gmail.com)
+  
+</div>
 
 ---
 
 ## 🚀 About Me
 
-Hi there! I'm **Kalpojyoti Koch**, a final-year B.Tech student at **Central Institute of Technology, Kokrajhar** with a passion for solving real-world problems using intuitive tech. I enjoy working at the intersection of software, systems, and impact — building things that **actually matter**.
+I'm a **final-year B.Tech student** at Central Institute of Technology, Kokrajhar, passionate about creating technology that solves real problems. I thrive at the intersection of **innovation and practicality**, building solutions that make a genuine impact.
 
-Whether it's automating classrooms, creating web interfaces for startups, or experimenting with AI, I like **learning by building**.
+```javascript
+const kalpojyoti = {
+    location: "Assam, India",
+    education: "B.Tech in Computer Science",
+    currentFocus: ["FastAPI", "Flutter", "Machine Learning"],
+    philosophy: "Build to understand, connect, and contribute",
+    funFact: "I built my own dataset with 75k+ entries for face recognition!"
+};
+```
 
-### 🌟 Things I'm known for:
-- Turning raw ideas into working systems
-- Exploring problems until I find the "why" behind them
-- Going deep into both code **and** user perspective
-- Picking up new tech stacks when the project demands it
-
----
-
-## 💻 Projects I’ve Worked On
-
-- 🔍 **Face Recognition Attendance System**  
-  Deep Learning–based automated attendance app. Built my own dataset of 75k+ entries. Integrated with server backend.
-
-- 🏠 **Home Automation using Arduino + GSM**  
-  Detects gas leakage and controls ventilation fan automatically. Built for safety, controlled via mobile messaging.
-
-- 🗺️ **College Bus Tracking System (In Progress)**  
-  Realtime bus tracking for students and parents using Map APIs.
-
-- 🌐 **Suzoco Services Website**  
-  Developed a clean, responsive landing page using **React, TypeScript, Vite** for an industrial training firm.
-
-- 🧠 **Puzzle-Based Learning Game (Concept)**  
-  Designed a game involving decision-based progression to teach leadership, logic, and teamwork through narrative levels.
+### 🎯 What Drives Me
+- **Problem-First Approach**: I dig deep to understand the "why" before building the "how"
+- **Real-World Impact**: Creating solutions that people actually use and benefit from
+- **Continuous Learning**: Always exploring new technologies when projects demand it
+- **User-Centric Design**: Balancing technical excellence with user experience
 
 ---
 
-## 🌱 What I'm Learning Right Now
-- **FastAPI** for backend APIs  
-- **Flutter** for mobile UI  
-- **ML algorithms** beyond the basics  
-- How to design better user-facing systems
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Backend & Database
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Tools & Hardware
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🌟 Featured Projects
 
-**Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-**Tools & Platforms**  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<div align="center">
+  
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🔍 AI-Powered Attendance System</h3>
+        <div align="center">  
+          <br>
+          <p><strong>Deep Learning • Computer Vision • Dataset Creation</strong></p>
+          <p>Built a face recognition system with 75k+ custom dataset entries. Integrated with server backend for automated attendance tracking.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🏠 Smart Home Automation</h3>
+        <div align="center">
+          <br>
+          <p><strong>Arduino • IoT • Safety Systems</strong></p>
+          <p>Automated gas leakage detection with ventilation control. Mobile-controlled system prioritizing safety and convenience.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🚌 Real-time Bus Tracking</h3>
+        <div align="center">
+          <br>
+          <p><strong>Maps API • Real-time Data • Mobile App</strong></p>
+          <p>College bus tracking system for students and parents. Live location updates with intuitive interface.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🌐 Suzoco Services Website</h3>
+        <div align="center">
+          <br>
+          <p><strong>React • TypeScript • Responsive Design</strong></p>
+          <p>Clean, modern landing page for industrial training firm. Focus on user experience and conversion optimization.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+  
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-![Kalpokoch's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalpokoch&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalpokoch&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kalpokoch&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kalpokoch&layout=compact&langs_count=8&theme=algolia"/>
+</div>
 
----
-
-## 🌐 Find Me Online
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://kalposportfoliowebsite.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalpo07/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kalpokoch@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kalpokoch)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalpokoch&theme=algolia" alt="kalpokoch" />
+</div>
 
 ---
 
-## 🧠 Motto
+## 🎯 Current Focus
 
-> “I don’t just code to complete tasks. I build to understand, connect, and contribute.”
+<div align="center">
+  
+  ```mermaid
+  graph TD
+      A[🚀 Learning Journey] --> B[FastAPI Backend Development]
+      A --> C[Flutter Mobile UI]
+      A --> D[Advanced ML Algorithms]
+      A --> E[System Design Patterns]
+      
+      B --> F[Building Scalable APIs]
+      C --> G[Cross-platform Apps]
+      D --> H[Computer Vision Projects]
+      E --> I[User-Centric Architecture]
+  ```
+  
+</div>
 
+---
+
+## 🏆 Achievement Highlights
+
+<div align="center">
+  
+  🎓 **Final Year B.Tech Student** - Computer Science Engineering  
+  🔬 **75k+ Dataset Creator** - Face Recognition System  
+  🏗️ **Full-Stack Developer** - End-to-end project experience  
+  🤖 **IoT Enthusiast** - Hardware + Software integration  
+  🌐 **Problem Solver** - Real-world application focus  
+  
+</div>
+
+---
+
+## 💭 Philosophy
+
+<div align="center">
+  
+  > *"I don't just code to complete tasks.*  
+  > *I build to understand, connect, and contribute."*
+  
+  **Building technology that bridges the gap between complex problems and simple solutions.**
+  
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+  I'm always excited to collaborate on projects that create real impact. Whether it's discussing new technologies, brainstorming solutions, or working on something meaningful together – let's connect!
+  
+  📧 **kalpokoch@gmail.com**  
+  🌐 **[Portfolio](https://kalposportfoliowebsite.netlify.app)**  
+  💼 **[LinkedIn](https://www.linkedin.com/in/kalpo07/)**  
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kalpokoch&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+
+<div align="center">
+  
+  ### Thanks for visiting! ⭐ Star some repositories if you find them interesting!
+  
+</div>
