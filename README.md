@@ -119,7 +119,7 @@ const kalpojyoti = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalpokoch&theme=algolia" alt="kalpokoch" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalpokoch&theme=algolia" alt="kalpokoch" /> -->
 </div>
 
 ---
