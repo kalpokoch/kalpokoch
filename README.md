@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 About Me
-Final-year B.Tech student passionate about **AI, IoT, and Full-Stack Development**. I build tech that solves real problems.
+B.Tech Graduate  **AI, IoT, and Full-Stack Development**.
 
 ```javascript
 const me = {
