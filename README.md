@@ -1,4 +1,4 @@
-# Hi there, I'm Kalpojyoti Koch! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
+   # Hi there, I'm Kalpojyoti Koch! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9BF0&center=true&vCenter=true&width=600&lines=Computer+Science+Graduate;AI%2FML+Engineer;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
@@ -171,7 +171,7 @@ I'm a **Computer Science graduate** from Central Institute of Technology with a 
 </div>
 
 
-## <img src="https://img.icons8.com/fluency/30/000000/globe.png"/> Connect with Me
+## <img src="[https://img.icons8.com/fluency/30/000000/globe.png](https://img.icons8.com/%20%20globe.png)"/> Connect with Me
 
 <div align="center">
 
