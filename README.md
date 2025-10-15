@@ -6,7 +6,7 @@
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="20" height="20"> About Me
 
-I'm a **Computer Science graduate** from Central Institute of Technology with a passion for building **intelligent systems** and **scalable web applications**. Currently working as an **AI/ML Intern** at NIELIT, where I'm developing cutting-edge solutions using the Model Context Protocol (MCP).
+I'm a **Computer Science graduate** from Central Institute of Technology with a passion for building **intelligent systems** and **scalable web applications**. Currently working as an **Admin assistant** at AMITY CENTRE FOR ARTIFICIAL INTELLIGENCE, where I'm working on a ICMR funded project titled "Personalized recemmonder system for virus research & diagnostics lab network"
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
