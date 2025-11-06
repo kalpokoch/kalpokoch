@@ -10,7 +10,6 @@ I'm a **Computer Science graduate** from Central Institute of Technology with a 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-- <img src="https://img.icons8.com/fluency/20/000000/code.png"/> I'm currently working on **MCP server development** and **AI-powered applications**
 - <img src="https://img.icons8.com/fluency/20/000000/learning.png"/> I'm constantly learning about **Deep Learning**, **Computer Vision**, and **Full-Stack Development**
 - <img src="https://img.icons8.com/fluency/20/000000/collaboration.png"/> I'm looking to collaborate on **Open Source AI projects** and **Web Development**
 - <img src="https://img.icons8.com/fluency/20/000000/chat.png"/> Ask me about **React**, **PyTorch**, **Computer Vision**, or **IoT systems**
