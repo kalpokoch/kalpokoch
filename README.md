@@ -25,7 +25,7 @@ Building production AI systems across medical imaging, audio classification, and
 | Project | Description | Metrics |
 |---|---|---|
 | [Gallbladder Carcinoma Detection](https://gbca.netlify.app) | Dual-path CBAM+MSAM CNN on CT scans · AIIMS Delhi collaboration | 86% acc · 0.893 AUC-ROC |
-| [ICMR Virus Classifier](https://amity-icmr-nie-app.streamlit.app) | Custom Gated Residual Transformer on 5.4M+ patient records · 26 diseases | 0.71 F1 · beats XGBoost |
+| [ICMR Virus Classifier](https://virusprednie.netlify.app) | Custom Gated Residual Transformer on 5.4M+ patient records · 26 diseases | 0.71 F1 · beats XGBoost |
 | [Respiratory Screener](https://respiratoryscreener.netlify.app) | CNN on 5K+ cough audio · focal loss + SpecAugment · FastAPI + React | <1s CPU inference |
 | [NEEPCO RAG Chatbot](https://neepcodop.netlify.app) | Quantized TinyLlama + ChromaDB + bge-large-en-v1.5 for policy retrieval | CPU-optimized |
 | Automated Attendance | ResNet50 facial recognition · 75K+ image custom dataset · SQL-integrated | Real-time inference |
